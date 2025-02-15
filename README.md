@@ -1,4 +1,4 @@
-# QR Code Generator (Python/Flask)
+# QR Code Generator (Python and Flask)
 
 A simple and elegant web application built with Flask to generate QR codes from user-provided URLs.
 
@@ -67,4 +67,6 @@ Pull requests are welcome!
 Developed by Bektas SARI
 GitHub: bektas-sari 
 Mail: bektas_sari@gmail.com
+LinkedIn: www.linkedin.com/in/bektas-sari
+
 
